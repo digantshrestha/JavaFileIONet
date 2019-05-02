@@ -1,0 +1,3 @@
+cd e:/MyFiles/programming/NewClasses/JavaFileIONet/src
+javac com/pro/file/Program.java
+java com.pro.file.Program
